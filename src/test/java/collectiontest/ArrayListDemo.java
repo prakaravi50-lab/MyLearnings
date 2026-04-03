@@ -86,5 +86,7 @@ public class ArrayListDemo {
         al.add(null);
         al.add(null);
         System.out.println(al);
+        System.out.println(al.get(0);
+        
     }
 }
