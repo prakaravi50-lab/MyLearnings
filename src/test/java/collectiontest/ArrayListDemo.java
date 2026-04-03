@@ -88,6 +88,8 @@ public class ArrayListDemo {
         System.out.println(al);
         System.out.println(al.get(0));
         System.out.println(al.get(1));
+        System.out.println(al.get(2));
+        System.out.println(al.get(3));
 
         
     }
